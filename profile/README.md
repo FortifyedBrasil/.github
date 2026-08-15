@@ -30,10 +30,6 @@ Uma plataforma para controle de acesso, presença e segurança escolar, conectan
 
 A evolução da nossa atuação em educação para uma plataforma completa de gestão escolar, integrando operação administrativa, acadêmica, financeira e relacionamento com famílias.
 
-### Futuro — Produtos para Saúde
-
-Com a maturidade da empresa e da plataforma, avançaremos também em produtos para operações de saúde, incluindo Home Care, automações sobre ecossistemas como Tasy, integrações e dados.
-
 ---
 
 ## Como pensamos produto
